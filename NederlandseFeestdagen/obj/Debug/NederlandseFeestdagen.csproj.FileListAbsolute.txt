@@ -1,0 +1,5 @@
+C:\Users\aflui\Source\Repos\afluiter\NederlandseFeestdagen\NederlandseFeestdagen\bin\Debug\ConsoleApp1.exe.config
+C:\Users\aflui\Source\Repos\afluiter\NederlandseFeestdagen\NederlandseFeestdagen\bin\Debug\ConsoleApp1.exe
+C:\Users\aflui\Source\Repos\afluiter\NederlandseFeestdagen\NederlandseFeestdagen\bin\Debug\ConsoleApp1.pdb
+C:\Users\aflui\Source\Repos\afluiter\NederlandseFeestdagen\NederlandseFeestdagen\obj\Debug\ConsoleApp1.exe
+C:\Users\aflui\Source\Repos\afluiter\NederlandseFeestdagen\NederlandseFeestdagen\obj\Debug\ConsoleApp1.pdb
